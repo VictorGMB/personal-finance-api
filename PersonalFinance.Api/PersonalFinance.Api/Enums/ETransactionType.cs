@@ -1,4 +1,4 @@
-﻿namespace PersonalFinance.Api.Models
+﻿namespace PersonalFinance.Api.Enums
 {
     public enum ETransactionType
     {

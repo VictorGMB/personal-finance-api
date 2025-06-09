@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using PersonalFinance.Api.Enums;
+using System.ComponentModel.DataAnnotations;
 
 namespace PersonalFinance.Api.Models
 {
